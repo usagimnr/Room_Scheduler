@@ -1,1 +1,2 @@
 # Room_Scheduler
+This is a room scheduler application which uses a GUI interface and is database driven. A user is able to add faculty, rooms, and dates. The user can then reserve rooms using the data they've inputted. If a room has already been reserved for that date or by the same faculty, that request is placed on waitlist. Status of all reservations and waitlist can also be viewed and accessed.
